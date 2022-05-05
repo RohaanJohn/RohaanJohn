@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/doodle/100/000000/hello--v1.png"/> 
+# <img src="https://img.icons8.com/doodle/100/000000/hello--v1.png"/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
 
@@ -15,7 +15,7 @@ Hi! I am a second year computer science student at Mar Baselios College of Engin
 ## - TensorFlow 
 ## - MySQL
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Get in touch:
+# 👋 Get in touch:
 
 
 ## Personal site: https://rohaanjohn.herokuapp.com/
