@@ -8,8 +8,12 @@ Hi! I am a second year computer science student at Mar Baselios College of Engin
 
 
 ## :computer: Technology Stack:
-
-  <img src="https://img.icons8.com/color/452/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+# Python
+# Java 
+# C
+# Django
+# TensorFlow 
+# MySQL
 
 ## Get in touch:
 
@@ -19,12 +23,12 @@ Hi! I am a second year computer science student at Mar Baselios College of Engin
 
 
 
-## Feauture Projects:
-# - PurifyNature 
+# Feauture Projects:
+## - PurifyNature 
 PurifyNature uses technolgy to solve real life problems. PurifyNature is built to pin point those areas where trash is accumualted and volunteers can come together and clean up such areas. 
 The link to the website: https://purifynature.herokuapp.com 
 Stay Green & Clean!
-# - AlphaTrip
+## - AlphaTrip
 A website to showcase various places. Contact page, registration page, login page and logout page is also available in this dynamic website. The user generated data is stored in the postgreSQL integrated with Heroku. This website is deployed in Heroku. 
 The link to the website is https://alphatrip.herokuapp.com.
 
