@@ -7,18 +7,18 @@ Hi! I am a second year computer science student at Mar Baselios College of Engin
 
 
 
-## :computer: Technology Stack:
-# Python
-# Java 
-# C
-# Django
-# TensorFlow 
-# MySQL
+# :computer: Technology Stack:
+## Python
+## Java 
+## C
+## Django
+## TensorFlow 
+## MySQL
 
-## Get in touch:
+# Get in touch:
 
 
-# Personal site: https://rohaanjohn.herokuapp.com/
+## Personal site: https://rohaanjohn.herokuapp.com/
 
 
 
