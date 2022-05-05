@@ -24,11 +24,11 @@ Hi! I am a second year computer science student at Mar Baselios College of Engin
 
 
 # ⭐ Feautured Projects:
-## - PurifyNature 
+## - PurifyNature (A Django x TensorFlow Project)
 PurifyNature uses technolgy to solve real life problems. PurifyNature is built to pin point those areas where trash is accumualted and volunteers can come together and clean up such areas. 
 The link to the website: https://purifynature.herokuapp.com.
 Stay Green & Clean!
-## - AlphaTrip
+## - AlphaTrip (A Django Project)
 A website to showcase various places. Contact page, registration page, login page and logout page is also available in this dynamic website. The user generated data is stored in the postgreSQL integrated with Heroku. This website is deployed in Heroku. 
 The link to the website is https://alphatrip.herokuapp.com.
 
