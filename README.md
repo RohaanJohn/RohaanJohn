@@ -9,15 +9,13 @@ Hi! I am a second year computer science student at Mar Baselios College of Engin
 
 ## :computer: Technology Stack:
 
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+  <img src="https://img.icons8.com/color/452/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 
 ## Get in touch:
 
 
-Personal site: https://rohaanjohn.herokuapp.com/
-# <img src="https://img.icons8.com/fluent/35/000000/linkedin-2.png"/>: https://www.linkedin.com/in/RohaanJohn/
+# Personal site: https://rohaanjohn.herokuapp.com/
 
-# <img src="https://img.icons8.com/fluent/35/000000/twitter.png"/>: https://twitter.com/RohaanJohn/
 
 
 
