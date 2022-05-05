@@ -11,7 +11,7 @@ PurifyNature uses technolgy to solve real life problems. The website is built to
 The link to the website: https://purifynature.herokuapp.com.
 Stay Green & Clean!
 ## - AlphaTrip 
-AlphaTrip showcases various places. Contact page, registration page, login page and logout page is also available in this dynamic website. The user generated data is stored in the postgreSQL integrated with Heroku. This website is deployed in Heroku. Key tool used was: Django.
+AlphaTrip showcases various places. Contact page, registration page and login page is also available in this dynamic website. The user generated data is stored in the postgreSQL integrated with Heroku. This website is deployed in Heroku. Key tool used was: Django.
 The link to the website: https://alphatrip.herokuapp.com. Keep exploring!
 
 # 💻 Technical Skills:
