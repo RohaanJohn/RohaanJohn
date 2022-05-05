@@ -8,12 +8,12 @@ Hi! I am a second year computer science student at Mar Baselios College of Engin
 
 
 # :computer: Technology Stack:
-## Python
-## Java 
-## C
-## Django
-## TensorFlow 
-## MySQL
+## -Python
+## -Java 
+## -C
+## -Django
+## -TensorFlow 
+## -MySQL
 
 # Get in touch:
 
