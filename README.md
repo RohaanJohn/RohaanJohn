@@ -7,7 +7,7 @@ Hi! I am a second year computer science student at Mar Baselios College of Engin
 
 # ⭐ Feautured Projects:
 ## - PurifyNature 
-PurifyNature uses technolgy to solve real life problems. PurifyNature is built to pin point those areas where trash is accumualted and volunteers can come together and clean up such areas. Key tools used were: Django and TensorFlow.
+PurifyNature uses technolgy to solve real life problems. PurifyNature is built to pinpoint those areas where trash is accumualted and volunteers can come together and clean up such areas. Key tools used were: Django and TensorFlow.
 The link to the website: https://purifynature.herokuapp.com.
 Stay Green & Clean!
 ## - AlphaTrip 
