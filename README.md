@@ -25,7 +25,7 @@ The link to the website: https://alphatrip.herokuapp.com. Keep Exploring!
 # 👋 Get in touch:
 
 
-## Personal site: https://rohaanjohn.herokuapp.com/
+## Personal site: https://bio.link/RohaanJohn
 
 
 
