@@ -11,7 +11,7 @@ PurifyNature aims at reducing the volume of trash around us. The website is buil
 The link to the website: https://purifynature.herokuapp.com.
 Stay Green & Clean!
 ## - AlphaTrip 
-AlphaTrip showcases various places in India. This website is deployed using Heroku. Key tool used was: Django. Keep Exploring!
+AlphaTrip showcases various places in India. This website is deployed using Heroku. Key tool used was: Django. 
 The link to the website: https://alphatrip.herokuapp.com. Keep Exploring!
 
 # 💻 Technical Skills:
