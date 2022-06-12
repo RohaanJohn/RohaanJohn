@@ -16,11 +16,12 @@ The link to the website: https://alphatrip.herokuapp.com. Keep Exploring!
 
 # 💻 Technical Skills:
 ## - Python
-## - Django
 ## - Dart
-## - Flutter
 ## - Java 
 ## - C
+## - Django
+## - Flutter
+## - ML
 ## - MySQL
 
 
