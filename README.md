@@ -21,7 +21,7 @@ The link to the website: https://alphatrip.herokuapp.com. Keep Exploring!
 ## - C
 ## - Django
 ## - Flutter
-## - MYSQL
+## - SQL
 
 
 # 👋 Get in touch:
