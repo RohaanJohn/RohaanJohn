@@ -7,11 +7,11 @@ Hi! I am a second year computer science student at Mar Baselios College of Engin
 
 # ⭐ Featured Projects:
 ## - PurifyNature 
-PurifyNature aims at reducing the volume of trash around us. The website is built to pinpoint those areas where trash is accumualted and volunteers can come together and clean up such areas. Key tools used were: Django and TensorFlow.
+PurifyNature aims at reducing the volume of trash around us. The website is built to pinpoint those areas where trash is accumualted and volunteers can come together and clean up such areas. 
 The link to the website: https://purifynature.herokuapp.com.
 Stay Green & Clean!
 ## - AlphaTrip 
-AlphaTrip showcases various places in India. This website is deployed using Heroku. Key tool used was: Django. 
+AlphaTrip showcases various places in India. This website is deployed using Heroku. 
 The link to the website: https://alphatrip.herokuapp.com. Keep Exploring!
 
 # 💻 Technical Skills:
