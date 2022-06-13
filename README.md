@@ -3,7 +3,7 @@
 
 
 
-Hi! I am a second year computer science student at Mar Baselios College of Engineering and Technology, Trivandrum. I am a web and an app developer. I use Django and Flutter for building websites and apps, respectively. I am familiar with Python, Dart, Java and C as well. My aim is to create softwares that are unique and beneficial to others.
+Hi! I am a second year computer science student at Mar Baselios College of Engineering and Technology, Trivandrum. I am a web and an app developer. I am familiar with Python, Dart, Java and C as well. My aim is to create softwares that are unique and beneficial to others.
 
 # ⭐ Featured Projects:
 ## - PurifyNature 
