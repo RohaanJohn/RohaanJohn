@@ -24,8 +24,6 @@ Keep Exploring!
 # 💻 Technical Skills:
 ## - Python
 ## - Django
-## - Dart
-## - Flutter
 ## - Java
 ## - C
 ## - HTML
