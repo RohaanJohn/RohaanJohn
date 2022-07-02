@@ -15,7 +15,7 @@ The link to the website: https://purifynature.herokuapp.com.
 
 Stay Green & Clean!
 ## - AlphaTrip 
-AlphaTrip showcases various places in India. This website is deployed using Heroku. 
+AlphaTrip showcases various places in India. This dynamic website is deployed using Heroku. 
 
 The link to the website: https://alphatrip.herokuapp.com. 
 
