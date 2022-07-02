@@ -27,7 +27,7 @@ Keep Exploring!
 ## - Java
 ## - C
 ## - HTML
-## - MySQL
+## - SQL
 
 
 # 👋 Get in touch:
