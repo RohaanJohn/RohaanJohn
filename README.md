@@ -8,7 +8,7 @@ Hi! I am a second year computer science student at Mar Baselios College of Engin
 # ⭐ Featured Projects:
 
 ## - PurifyNatureAPI
-Using Django, specifically DjangoAPI, I made an API which determines whether an uploaded picture is Clean or Trash. The API can be used in other apps which need trash detection for their operation. 
+Using Django, specifically Django REST Framework, I made an API which determines whether an uploaded picture is Clean or Trash. The API can be used in other apps which need trash detection for their operation. 
 
 The link to the website: https://purifynatureapi365.herokuapp.com/accounts/trashdetection.
 
