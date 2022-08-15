@@ -6,6 +6,12 @@
 Hi! I am a second year computer science student at Mar Baselios College of Engineering and Technology, Trivandrum. I am a Django developer. I am familiar with Python, Java and C as well. My aim is to create applications that are unique and beneficial for others.
 
 # ⭐ Featured Projects:
+
+## - PurifyNatureAPI
+Using Django, specifically DjangoAPI, I made an API which determines whether an uploaded picture is Clean or Trash. The API can be used in other apps which need trash detection for their operation. 
+
+The link to the website: https://purifynatureapi365.herokuapp.com/accounts/trashdetection.
+
 ## - PurifyNature 
 PurifyNature aims at reducing the volume of trash around us. The website is built to pinpoint those areas where trash is accumualted and volunteers can come together and clean up such areas. 
 
