@@ -28,8 +28,9 @@ The link to the website: https://alphatrip.herokuapp.com.
 Keep Exploring!
 
 # 💻 Technical Skills:
-## - Python :python:
+## - Python 
 ## - Django
+## - Flutter
 ## - Java
 ## - C
 ## - HTML
