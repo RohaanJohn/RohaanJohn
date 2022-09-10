@@ -15,7 +15,7 @@ The link to the website: https://purifynatureapi365.herokuapp.com/accounts/trash
 ## - PurifyNature 
 PurifyNature aims at reducing the volume of trash around us. The website is built to pinpoint those areas where trash is accumualted and volunteers can come together and clean up such areas. 
 
-A user takes a photo of a locality where trash is accumulated. After uploading, our AI model will determine whether or not the area is clean with the help of Tensorflow. If clean, the user is redirected to the main page or else that particular location is pinpointed. 
+A user takes a photo of a locality where trash is accumulated. After uploading, our AI model will determine whether or not the area is clean. If clean, the user is redirected to the main page or else that particular location is pinpointed. 
 
 The website is built using Django and the predictions are made using Tensorflow. It is hosted on Heroku.
 
