@@ -30,7 +30,7 @@ Keep Exploring!
 # 💻 Technical Skills:
 ## - Python 
 ## - Django
-## - Flutter
+## - Tensorflow
 ## - Java
 ## - C
 ## - HTML
