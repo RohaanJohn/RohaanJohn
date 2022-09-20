@@ -7,6 +7,9 @@ Hi! I am a second year computer science student at Mar Baselios College of Engin
 
 # ⭐ Featured Projects:
 
+## - Chad 
+Chad is a discord bot which is maintly built as a way to interact with APIs from discord. Currently it uses zenquote api to send a quote and api-ninjas api to send a fact to a channel every 1 hour. The command to send a random quote is -inspire and -help shows the other commands of the bot.
+The link to add bot to your server: https://discord.com/api/oauth2/authorize?client_id=880705578043838464&permissions=227344&scope=bot
 ## - PurifyNatureAPI
 Using Django, specifically Django REST Framework, I made an API which determines whether an uploaded picture is Clean or Trash. The API can be used in other apps which need trash detection for their operation. 
 
