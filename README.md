@@ -31,6 +31,8 @@ ChadBot is a discord bot which is maintly built as a way to interact with APIs f
 
 The command to send a random quote is -inspire and -help shows the other commands of the bot.
 
+The bot also autoresponses to certain words like sad, unhappy, etc. with custom user inputted encouraging words.
+
 The link to add the bot to your server: https://discord.com/api/oauth2/authorize?client_id=880705578043838464&permissions=227344&scope=bot
 
 ## - AlphaTrip 
