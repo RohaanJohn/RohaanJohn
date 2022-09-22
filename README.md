@@ -3,7 +3,7 @@
 
 Hi! I am a second year computer science student at Mar Baselios College of Engineering and Technology, Trivandrum. I am a Django developer. I have made REST APIs using Django REST Framework and dynamic websites using Django Web Framework. 
 
-Currently, my interest lies in the field of machine learning. I have created sequential models and further trained them using Tensorflow to make accurate predictions for different instances. I am familiar with Python, Java and C as well. My aim is to create applications that are unique and beneficial for others.
+Currently, my interest lies in the field of machine learning. So far, I learnt how to create sequential models and further train them using Tensorflow to make accurate predictions for different instances. I am familiar with Python, Java and C as well. My aim is to create applications that are unique and beneficial for others.
 
 # ⭐ Featured Projects:
 
