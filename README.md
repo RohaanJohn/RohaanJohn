@@ -52,10 +52,7 @@ Keep Exploring!
 ## - SQL
 
 
-# 👋 Get in touch:
 
-
-## Personal site: https://RohaanJohn.glitch.me
 
 
 
