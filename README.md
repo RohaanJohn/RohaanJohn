@@ -36,7 +36,7 @@ The bot also responds to certain words like sad, unhappy, etc. with custom user 
 The link to add the bot to your server: https://discord.com/api/oauth2/authorize?client_id=880705578043838464&permissions=227344&scope=bot
 
 ## - AlphaTrip 
-AlphaTrip showcases various places in India. This dynamic website is deployed using Heroku. 
+AlphaTrip is a travel website made using Django. This dynamic website is deployed using Heroku. 
 
 The link to the website: https://alphatrip.herokuapp.com. 
 
