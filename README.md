@@ -21,7 +21,7 @@ The website is built using Django and the predictions are made using Tensorflow.
 
 There are still many more features that needs to be added into the website for it to be properly functional but this was just a small start for something that has great potential to grow and be beneficial to the society. 
 
-The link to the website: https://purifynature.herokuapp.com.
+The link to the website: https://purifynature.herokuapp.com
 
 Stay Green & Clean!
 
@@ -38,7 +38,7 @@ The link to add the bot to your server: https://discord.com/api/oauth2/authorize
 ## - AlphaTrip 
 AlphaTrip is a travel website made using Django. This dynamic website is deployed using Heroku. 
 
-The link to the website: https://alphatrip.herokuapp.com. 
+The link to the website: https://alphatrip.herokuapp.com
 
 Keep Exploring!
 
