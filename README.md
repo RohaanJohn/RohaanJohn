@@ -10,7 +10,7 @@ Currently, my interest lies in the field of machine learning. So far, I learnt h
 ## - EmotionAnalysisAPI
 Using Django, specifically Django REST Framework, I made an API which determines whether a person in an uploaded image is happy, sad or angry. The API can be used in other apps which need emotion analysis for their operation. 
 
-The link to the website: https://emotionanalysis.herokuapp.com/accounts/emotionanalysis
+The link to the website: https://emotionanalysisapi.herokuapp.com/accounts/emotionanalysis
 
 ## - PurifyNatureAPI
 Using Django, specifically Django REST Framework, I made an API which determines whether an uploaded picture is Clean or Trash. The API can be used in other apps which need trash detection for their operation. 
