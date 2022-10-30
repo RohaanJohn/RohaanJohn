@@ -38,6 +38,8 @@ AlphaTrip is a travel website made using Django. This dynamic website is deploye
 
 The link to the website: https://alphatrip.herokuapp.com
 
+Keep Exploring!
+
 ## - ChadBot
 ChadBot is a discord bot which is maintly built as a way to interact with APIs from discord. Currently it uses zenquote api to send a quote and api-ninjas api to send a fact to a channel every 1 hour. 
 
@@ -47,7 +49,7 @@ The bot also responds to certain words like sad, unhappy, etc. with custom user 
 
 The link to add the bot to your server: https://discord.com/api/oauth2/authorize?client_id=880705578043838464&permissions=227344&scope=bot
 
-Keep Exploring!
+
 
 # 💻 Technical Skills:
 ## - Django
