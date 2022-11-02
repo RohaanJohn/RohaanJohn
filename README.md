@@ -14,7 +14,7 @@ The link to the website: https://emotionanalysisapi.herokuapp.com/accounts/analy
 
 
 ## - EmailVerificationAPI
-Using Django, specifically Django REST Framework, I made an API which determines whether the email inputted by the user is valid or not. The API can be used in other apps which need email verification for their operation. 
+Using Django, specifically Django REST Framework, I made an API which determines whether the email inputted by the user is valid or invalid. The API can be used in other apps which need email verification for their operation. 
 
 The link to the website: https://emailverificationapi.herokuapp.com/accounts/verify
 
