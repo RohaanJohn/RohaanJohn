@@ -27,7 +27,7 @@ The website is built using Django and the predictions are made using Tensorflow.
 
 There are still many more features that needs to be added into the website for it to be properly functional but this was just a small start for something that has great potential to grow and be beneficial to the society. 
 
-The link to the website: https://purifynature.herokuapp.com
+The link to the website: https://purifynature.up.railway.app
 
 Stay Green & Clean!
 
