@@ -37,8 +37,7 @@ Stay Green & Clean!
 ## - AlphaTrip 
 AlphaTrip is a travel website made using Django. This dynamic website is deployed using Heroku. 
 
-The link to the website: https://alphatrip.herokuapp.com
-
+The link to the website: https://thealphatrip.up.railway.app
 Keep Exploring!
 
 ## - ChadBot
