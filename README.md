@@ -16,7 +16,7 @@ The link to the website: https://emotionanalysisapi.herokuapp.com/accounts/analy
 ## - EmailVerificationAPI
 Using Django, specifically Django REST Framework, I made an API which determines whether the email inputted by the user is valid or invalid. The API can be used in other apps which need email verification for their operation. 
 
-The link to the website: https://emailverificationapi.herokuapp.com/accounts/verify
+The link to the website: https://emailverificationapi.up.railway.app/accounts/verify
 
 ## - PurifyNature 
 PurifyNature aims at reducing the volume of trash around us. The website is built to pinpoint those areas where trash is accumualted and volunteers can come together and clean up such areas. 
