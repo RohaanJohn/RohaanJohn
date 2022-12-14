@@ -10,7 +10,7 @@ Currently, my interest lies in the field of machine learning specifically image 
 ## - EmotionAnalysisAPI
 Using Django, specifically Django REST Framework, I made an API which determines whether a person in an uploaded image is happy, sad or angry. The API can be used in other apps which need emotion analysis for their operation. 
 
-The link to the website: https://emotionanalysisapi.herokuapp.com/accounts/analyse
+The link to the website: https://emotionanalysisapi.up.railway.app/accounts/analyse
 
 
 ## - EmailVerificationAPI
