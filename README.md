@@ -5,7 +5,7 @@ Hi! I am a third year computer science student at Mar Baselios College of Engine
 
 Currently, my interest lies in the field of machine learning specifically image processing. So far, I learnt how to create sequential models and how to further train them so as to make accurate predictions in different instances. I was able to do this using Tensorflow. I am familiar with Python, Java and C as well. My aim is to create applications that are unique and beneficial for others.
 
-Working on DhwaniApp & ZparkApp
+Working on DhwaniApp & ZparkApp.
 # ⭐ Featured Projects:
 
 ## - EmotionAnalysisAPI
