@@ -15,18 +15,6 @@ This a Django API which inputs the user's question and returns the answer genera
 
 The link to the website: https://chatgptapi.up.railway.app/accounts/ask
 
-
-## - EmotionAnalysisAPI
-Using Django, specifically Django REST Framework, I made an API which determines whether a person in an uploaded image is happy, sad or angry. The API can be used in other apps which need emotion analysis for their operation. 
-
-The link to the website: https://emotionanalysisapi.up.railway.app/accounts/analyse
-
-
-## - EmailVerificationAPI
-Using Django, specifically Django REST Framework, I made an API which determines whether the email inputted by the user is valid or invalid. The API can be used in other apps which need email verification for their operation. 
-
-The link to the website: https://emailverificationapi.up.railway.app/accounts/verify
-
 ## - PurifyNature 
 PurifyNature aims at reducing the volume of trash around us. The website is built to pinpoint those areas where trash is accumualted and volunteers can come together and clean up such areas. 
 
@@ -40,8 +28,16 @@ The link to the website: https://purifynature.up.railway.app
 
 Stay Green & Clean!
 
+## - EmotionAnalysisAPI
+Using Django, specifically Django REST Framework, I made an API which determines whether a person in an uploaded image is happy, sad or angry. The API can be used in other apps which need emotion analysis for their operation. 
+
+The link to the website: https://emotionanalysisapi.up.railway.app/accounts/analyse
 
 
+## - EmailVerificationAPI
+Using Django, specifically Django REST Framework, I made an API which determines whether the email inputted by the user is valid or invalid. The API can be used in other apps which need email verification for their operation. 
+
+The link to the website: https://emailverificationapi.up.railway.app/accounts/verify
 
 ## - AlphaTrip 
 AlphaTrip is a travel website made using Django. This dynamic website is deployed using Heroku. 
