@@ -33,28 +33,23 @@ Using Django, specifically Django REST Framework, I made an API which determines
 
 The link to the website: https://emotionanalysisapi.up.railway.app/accounts/analyse
 
-
-## - EmailVerificationAPI
-Using Django, specifically Django REST Framework, I made an API which determines whether the email inputted by the user is valid or invalid. The API can be used in other apps which need email verification for their operation. 
-
-The link to the website: https://emailverificationapi.up.railway.app/accounts/verify
+## - ChadBot
+ChadBot is a discord bot which is mainly built as a way to interact with APIs from discord. Currently it uses zenquote api to send a quote and api-ninjas api to send a fact to a channel every 1 hour. 
+The command to send a random quote is -inspire and -help shows the other commands of the bot. 
+The bot also responds to certain words like sad, unhappy, etc. with custom user inputted encouraging words. Use -list to show all the added encouraging words, -add <word> to add a new word to the list and -delete <position> to delete a word from the list. If you want to turn off autoresponse from the bot use -responding off or use -responding on to turn autoresponse back on.
+Update: I integrated ChatGPT to the bot. So users can ask any question to ChatGPT from discord through ChadBot. Prefix before any question should be: "ok chad" .
+The link to add the bot to your server: https://discord.com/api/oauth2/authorize?client_id=880705578043838464&permissions=227344&scope=bot
 
 ## - AlphaTrip 
 AlphaTrip is a travel website made using Django. This dynamic website is deployed using Heroku. 
 
 The link to the website: https://thealphatrip.up.railway.app
 Keep Exploring!
+  
+## - EmailVerificationAPI
+Using Django, specifically Django REST Framework, I made an API which determines whether the email inputted by the user is valid or invalid. The API can be used in other apps which need email verification for their operation. 
 
-## - ChadBot
-ChadBot is a discord bot which is maintly built as a way to interact with APIs from discord. Currently it uses zenquote api to send a quote and api-ninjas api to send a fact to a channel every 1 hour. 
-
-The command to send a random quote is -inspire and -help shows the other commands of the bot.
-
-The bot also responds to certain words like sad, unhappy, etc. with custom user inputted encouraging words. Use -list to show all the added encouraging words, -add *word* to add a new word to the list and -delete *position* to delete a word from the list. If you want to turn off autoresponse from the bot use -responding off or use -responding on to turn autoresponse back on.
-
-The link to add the bot to your server: https://discord.com/api/oauth2/authorize?client_id=880705578043838464&permissions=227344&scope=bot
-
-
+The link to the website: https://emailverificationapi.up.railway.app/accounts/verify
 
 # 💻 Technical Skills:
 ## - Django
