@@ -47,6 +47,7 @@ The link to add the bot to your server: https://discord.com/api/oauth2/authorize
 AlphaTrip is a travel website made using Django. This dynamic website is deployed using Heroku. 
 
 The link to the website: https://thealphatrip.up.railway.app
+
 Keep Exploring!
   
 ## - EmailVerificationAPI
