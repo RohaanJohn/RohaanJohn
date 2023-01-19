@@ -7,7 +7,7 @@ I also have deep interest in Machine Learning. So far, I learnt how to create se
 
 Currently, I am in the process of learning App Development using Flutter. I am familiar with Python, Java and C as well. My aim is to create applications that are unique and beneficial for others.
 
-Working on DhwaniApp & ZparkApp.
+Working on DhwaniApp.
 # ⭐ Featured Projects:
 
 ## - ChatGPT API
