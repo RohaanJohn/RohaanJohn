@@ -44,7 +44,7 @@ This a Django API which inputs the user's question and returns the answer genera
 The link to the website: https://chatgptapi.up.railway.app/accounts/ask
   
 ## - AlphaTrip 
-AlphaTrip is a travel website made using Django. This dynamic website is deployed using Heroku. 
+AlphaTrip is a travel website made using Django. This dynamic website is deployed using railway.app. 
 
 The link to the website: https://thealphatrip.up.railway.app
 
