@@ -1,7 +1,7 @@
 # <img src="https://img.icons8.com/doodle/100/000000/hello--v1.png"/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
-Hi! I am a third year computer science student at Mar Baselios College of Engineering and Technology, Trivandrum. I am a Django developer. I have made Web Applications and APIs using Django Framework.
+Hi! My name is Rohaan John. I am a third year computer science student at Mar Baselios College of Engineering and Technology, Trivandrum. I am a Django developer. I have made Web Applications and APIs using Django Framework.
 
 I also have deep interest in Machine Learning. So far, I learnt how to create sequential models and how to further train them so as to make accurate predictions in different instances. I was able to do this using Tensorflow. 
 
