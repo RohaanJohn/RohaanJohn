@@ -47,7 +47,7 @@ The link to the website: https://chatgptapi.up.railway.app/accounts/ask
 ## - AlphaTrip 
 AlphaTrip is a travel website made using Django. This dynamic website is deployed using railway.app. 
 
-The link to the website: https://thealphatrip.up.railway.app
+The link to the website: https://alphatripv1.up.railway.app
 
 Keep Exploring!
   
