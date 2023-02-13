@@ -46,7 +46,7 @@ The link to the website: https://chatgptapi.up.railway.app/accounts/ask
   
 ## - AlphaTrip 
 AlphaTrip showcases various places in India. The dynamic website was deployed in railway.app. The database I use is PostgreSQL available within railway.app. 
-Keep Exploring! 
+
 
 The link to the website: https://alphatripv1.up.railway.app
 
