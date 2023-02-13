@@ -57,13 +57,18 @@ Using Django, specifically Django REST Framework, I made an API which determines
 The link to the website: https://emailverificationapi.up.railway.app/accounts/verify
 
 # 💻 Technical Skills:
-## - Django
-## - Tensorflow
-## - Python 
+## - TensorFlow
+## - Django REST Framework
+## - Django Framework
+## - MongoDB
+## - PostgreSQL
+## - MySQL
+## - Python
 ## - Java
 ## - C
-## - HTML
+## - NoSQL
 ## - SQL
+## - HTML
 
 
 
