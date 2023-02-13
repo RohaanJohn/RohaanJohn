@@ -15,7 +15,7 @@ PurifyNature aims at reducing the volume of trash around us. The website is buil
 
 A user takes a photo of a locality where trash is accumulated. After uploading, our AI model will determine whether or not the area is clean. If clean, the user is redirected to the main page or else that particular location is pinpointed. 
 
-The website is built using Django and the predictions are made using Tensorflow. It is hosted on Heroku.
+The website is built using Django and the predictions are made using Tensorflow. It is hosted on railway.app.
 
 There are still many more features that needs to be added into the website for it to be properly functional but this was just a small start for something that has great potential to grow and be beneficial to the society. 
 
