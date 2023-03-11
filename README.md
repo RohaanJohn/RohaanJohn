@@ -61,13 +61,11 @@ The link to the website: https://emailverificationapi.up.railway.app/accounts/ve
 ## - TensorFlow
 ## - Django REST Framework
 ## - Django Framework
-## - MongoDB
 ## - PostgreSQL
 ## - MySQL
 ## - Python
 ## - Java
 ## - C
-## - NoSQL
 ## - SQL
 ## - HTML
 
