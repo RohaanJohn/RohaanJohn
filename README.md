@@ -58,7 +58,7 @@ The link to the website: https://chatgptapi.up.railway.app/accounts/ask
 
 ## - 8. MatPlotLibIt
 
-A Django Data Analysis Project powered by python's own Matplotlib library.
+A Data Analysis Project powered by python's own Matplotlib library.
 
 ## - 9. AlphaTrip 
 AlphaTrip showcases various places in India. The dynamic website was deployed in railway.app. The database I use is PostgreSQL available within railway.app. 
@@ -68,7 +68,7 @@ The link to the website: https://alphatripv1.up.railway.app
 Keep Exploring!
 
 ## - 10. EmailVerificationAPI
-Using Django, specifically Django REST Framework, I made an API which determines whether the email inputted by the user is valid or invalid. The API can be used in other apps which need email verification for their operation. 
+This API determines whether the email inputted by the user is valid or invalid. The API can be used in other apps which need email verification for their operation. 
 
 The link to the website: https://emailverificationapi.up.railway.app/accounts/verify
 
