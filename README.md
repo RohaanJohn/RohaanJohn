@@ -60,6 +60,8 @@ The link to the website: https://chatgptapi.up.railway.app/accounts/ask
 
 A Data Analysis Project powered by python's own Matplotlib library.
 
+The link to the website: https://matplotlibit.up.railway.app/accounts/ask
+
 ## - 9. AlphaTrip 
 AlphaTrip showcases various places in India. The dynamic website was deployed in railway.app. The database I use is PostgreSQL available within railway.app. 
 
