@@ -36,7 +36,7 @@ The link to the website: https://aipoems.up.railway.app
 ## - 4. CodedStory
 This a Django App which inputs a story theme and generates a very brief story around the theme and an image as well. The story is generated using ChatGPT and image is generated using DallE.
 
-The link to the website: https://codedstory1.up.railway.app
+The link to the website: https://codedstory.up.railway.app
 
 ## - 5. ChadBot
 ChadBot is a discord bot which is mainly built as a way to interact with APIs from discord. Currently it uses: Zenquote api to send a quote, API Ninjas api to send a fact, ChatGPT api to chat and generate poems/stories and DallE api to generate images.
@@ -60,7 +60,7 @@ The link to the website: https://chatgptapi.up.railway.app/accounts/ask
 
 A Data Analysis Project powered by python's own Matplotlib library.
 
-The link to the website: https://matplotlibit.up.railway.app/accounts/ask
+The link to the website: https://matplotlibit.up.railway.app
 
 ## - 9. AlphaTrip 
 AlphaTrip showcases various places in India. The dynamic website was deployed in railway.app. The database I use is PostgreSQL available within railway.app. 
