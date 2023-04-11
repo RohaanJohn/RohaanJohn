@@ -3,7 +3,7 @@
 
 Hi! My name is Rohaan John.
 
-I am a third year computer science student at Mar Baselios College of Engineering and Technology, Trivandrum. I am a back end web developer. I have made Web Applications and APIs using Django Framework.
+I am a third year computer science student at Mar Baselios College of Engineering and Technology, Trivandrum. I am a backend web developer. I have made Web Applications and APIs using Django Framework.
 
 I also have deep interest in Machine Learning. So far, I learnt how to create sequential models and how to further train them so as to make accurate predictions in different instances. I made projects specifically in the field of image processing and did this using TensorFlow. 
 
