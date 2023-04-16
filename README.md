@@ -88,10 +88,10 @@ The link to the website: https://emailverificationapi.up.railway.app/accounts/ve
 ## - PostgreSQL
 ## - MySQL
 ## - Python
-## - Java
 ## - C
 ## - SQL
 ## - HTML
+## - Heroku
 
 
 
