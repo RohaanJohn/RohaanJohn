@@ -35,6 +35,8 @@ AlphaTrip showcases various places in India. The dynamic website was deployed in
 
 The link to the website: https://alphatrip.up.railway.app
 
+Keep Exploring!
+
 ## - 4. PlotIt
 A Data Analysis Project powered by python's own Matplotlib library.
 
