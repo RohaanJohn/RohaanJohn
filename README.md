@@ -52,7 +52,7 @@ Parkzy is an idea where our main aim was to make parking in the cities easier. A
 
 The link to the website: https://parkzyapi.up.railway.app/accounts/predict
 
-## - 4. PlotIt
+## - 7. PlotIt
 A Data Analysis Project powered by python's own Matplotlib library.
 
 The link to the website: https://plotit.up.railway.app
