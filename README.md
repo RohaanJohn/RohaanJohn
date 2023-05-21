@@ -30,17 +30,17 @@ Using Django REST Framework, I made an API which determines whether a person in 
 
 The link to the website: https://emotionanalysisapi.up.railway.app/accounts/analyse
 
-## - 3. AlphaTrip 
+## - 3. AIPoems
+In this web app a user can input a theme and then a poem is generated based on the theme and an image as well. The story is generated using ChatGPT and image is generated using DallE.
+
+The link to the website: https://aipoems.up.railway.app
+
+## - 4. AlphaTrip 
 AlphaTrip showcases various places in India. The dynamic website was deployed in railway.app. The database I use is PostgreSQL available within railway.app. 
 
 The link to the website: https://alphatrip.up.railway.app
 
 Keep Exploring!
-
-## - 4. PlotIt
-A Data Analysis Project powered by python's own Matplotlib library.
-
-The link to the website: https://plotit.up.railway.app
 
 ## - 5. DhwaniApp
 DhwaniApp is a Flutter app that aims towards helping children with special needs in their communication process.
@@ -52,12 +52,10 @@ Parkzy is an idea where our main aim was to make parking in the cities easier. A
 
 The link to the website: https://parkzyapi.up.railway.app/accounts/predict
 
-## - 7. AIPoems
-In this web app a user can input a theme and then a poem is generated based on the theme and an image as well. The story is generated using ChatGPT and image is generated using DallE.
+## - 4. PlotIt
+A Data Analysis Project powered by python's own Matplotlib library.
 
-The link to the website: https://aipoems.up.railway.app
-
-Keep Exploring!
+The link to the website: https://plotit.up.railway.app
 
 ## - 8. ChadBot
 ChadBot is a discord bot which is mainly built as a way to interact with APIs from discord. Currently it uses: Zenquote api to send a quote, API Ninjas api to send a fact, ChatGPT api to chat and generate poems/stories and DallE api to generate images.
