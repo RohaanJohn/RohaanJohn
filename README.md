@@ -19,6 +19,8 @@ Currently, I am in the process of learning App Development using Flutter and wor
 
 # ⭐ Featured Projects:
 
+Check out my projects at: https://www.linkedin.com/in/rohaanjohn/details/projects/
+
 ## - 1. PurifyNature 
 PurifyNature aims at reducing the volume of trash around us. The website is built to pinpoint those areas where trash is accumualted and volunteers can come together and clean up such areas. 
 
