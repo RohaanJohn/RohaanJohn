@@ -1,15 +1,22 @@
 # <img src="https://img.icons8.com/doodle/100/000000/hello--v1.png"/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+Hi! My name is Rohaan John. I am a third year computer science student at Mar Baselios College of Engineering and Technology, Trivandrum. 
 
-Hi! My name is Rohaan John.
+🔹 I am a backend web developer. I have made Web Apps/Websites using the Django Framework.
 
-I am a third year computer science student at Mar Baselios College of Engineering and Technology, Trivandrum. I am a backend web developer. I have made Web Applications and APIs using Django Framework.
+🔹 I made APIs too using Django's own REST Framework.
 
-I also have deep interest in Machine Learning. So far, I learnt how to create sequential models and how to further train them so as to make accurate predictions in different instances. I made projects specifically in the field of image processing and did this using TensorFlow. 
+🔹 I also have experience in Discord Bot Development. Created a bot using discord.py and hosted it at 
+ replit.
 
-I am familiar with Python and C as well. My aim is to create applications that are unique and beneficial for others.
+🔹 In the field of AI ML, I learnt how to do image processing (for mask/trash detection, emotion analysis) 
+ and supervised learning (for mobile phone price prediction).
 
+🔹 I am familiar with both Python and C as well.
+
+My aim is to create applications that are unique and beneficial for others.
 Currently, I am in the process of learning App Development using Flutter and working on the DhwaniApp.
+
 # ⭐ Featured Projects:
 
 ## - 1. PurifyNature 
