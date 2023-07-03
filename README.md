@@ -82,7 +82,7 @@ If you want just an image, then use "imagine:" followed by the image you want of
 
 The link to add the bot to your server: http://bit.ly/3lueFH9
 
-## - 9. PlotIt
+## - 10. PlotIt
 A Data Analysis Project powered by python's own Matplotlib library.
 
 The link to the website: https://plotit.up.railway.app
