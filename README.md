@@ -19,8 +19,6 @@ Currently, I am in the process of learning App Development using Flutter and wor
 
 # ⭐ Featured Projects:
 
-Check out my projects at: https://www.linkedin.com/in/rohaanjohn/details/projects/
-
 ## - 1. PurifyNature 
 PurifyNature aims at reducing the volume of trash around us. The website is built to pinpoint those areas where trash is accumualted and volunteers can come together and clean up such areas. 
 
@@ -35,7 +33,9 @@ The link to the website: https://purifynature.up.railway.app
 Stay Green & Clean!
 
 ## - 2. PriceWizard
-PriceWizard is a mobile app where aim is to create an app where users can use it to predict prices of mobile phones yet to release with their features known pre-hand. Still in the development phase.
+PriceWizard can be used to predict prices of mobile phones yet to release with their features known pre-hand. I used supervised learning methods like KNN, SVR, Logisitic, Linear and RF Regression methods to predict the price.
+
+The link to the website: https://pricewizard.up.railway.app
 
 ## - 3. EmotionAnalysisAPI
 Using Django REST Framework, I made an API which determines whether a person in an uploaded image is happy, sad or angry. The API can be used in other apps which need emotion analysis for their operation.
@@ -47,27 +47,27 @@ In this web app a user can input a theme and then a poem is generated based on t
 
 The link to the website: https://aipoems.up.railway.app
 
-## - 5. AlphaTrip 
+## - 5. EN2ML
+A NLP Project where I convert English Text to Malayalam Audio. Unlike google translate, you can download the generated malayalam audio as mp3 file.
+
+The link to the website: https://en2ml.up.railway.app/accounts/translate
+
+## - 6. AlphaTrip 
 AlphaTrip showcases various places in India. The dynamic website was deployed in railway.app. The database I use is PostgreSQL available within railway.app. 
 
 The link to the website: https://alphatrip.up.railway.app
 
 Keep Exploring!
 
-## - 6. DhwaniApp
+## - 7. DhwaniApp
 DhwaniApp is a Flutter app that aims towards helping children with special needs in their communication process.
 I have worked on the AI-API part of the app and am currently in the process of learning Flutter to work on the app side. 
 The app is currently under development.
 
-## - 7. ParkzyAPI
+## - 8. ParkzyAPI
 Parkzy is an idea where our main aim was to make parking in the cities easier. As of now, I made an API using the Django REST Framework that inputs an image and reads the license number from the license plate in the image and returns it. This is just one module of the many we are planning to integrate into the app. The app is under development.
 
 The link to the website: https://parkzyapi.up.railway.app/accounts/predict
-
-## - 8. PlotIt
-A Data Analysis Project powered by python's own Matplotlib library.
-
-The link to the website: https://plotit.up.railway.app
 
 ## - 9. ChadBot
 ChadBot is a discord bot which is mainly built as a way to interact with APIs from discord. Currently it uses: Zenquote api to send a quote, API Ninjas api to send a fact, ChatGPT api to chat and generate poems/stories and DallE api to generate images.
@@ -82,10 +82,10 @@ If you want just an image, then use "imagine:" followed by the image you want of
 
 The link to add the bot to your server: http://bit.ly/3lueFH9
 
-## - 10. EmailVerificationAPI
-This API determines whether the email inputted by the user is valid or invalid. The API can be used in other apps which need email verification for their operation. 
+## - 9. PlotIt
+A Data Analysis Project powered by python's own Matplotlib library.
 
-The link to the website: https://emailverificationapi.up.railway.app/accounts/verify
+The link to the website: https://plotit.up.railway.app
 
 # 💻 Technical Skills:
 ## - TensorFlow
