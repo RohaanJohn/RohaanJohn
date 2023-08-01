@@ -101,6 +101,18 @@ The link to the website: https://plotit.up.railway.app
 
 
 
+<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RohaanJohn&theme=radical&)](https://git.io/streak-stats)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohaanJohn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RohaanJohn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
