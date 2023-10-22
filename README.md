@@ -1,6 +1,6 @@
 # <img src="https://img.icons8.com/doodle/100/000000/hello--v1.png"/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Hi! My name is Rohaan John. I am a third year computer science student at Mar Baselios College of Engineering and Technology, Trivandrum. 
+Hi! My name is Rohaan John. I am a final year computer science student at Mar Baselios College of Engineering and Technology, Trivandrum. 
 
 🔹 I am a backend web developer. I have made Web Apps/Websites using the Django Framework.
 
